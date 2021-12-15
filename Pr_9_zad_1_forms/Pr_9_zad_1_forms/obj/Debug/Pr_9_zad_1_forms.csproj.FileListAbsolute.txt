@@ -1,0 +1,10 @@
+D:\Studia\Pr_9_zad_1_forms\Pr_9_zad_1_forms\bin\Debug\Pr_9_zad_1_forms.exe.config
+D:\Studia\Pr_9_zad_1_forms\Pr_9_zad_1_forms\bin\Debug\Pr_9_zad_1_forms.exe
+D:\Studia\Pr_9_zad_1_forms\Pr_9_zad_1_forms\bin\Debug\Pr_9_zad_1_forms.pdb
+D:\Studia\Pr_9_zad_1_forms\Pr_9_zad_1_forms\obj\Debug\Pr_9_zad_1_forms.csproj.AssemblyReference.cache
+D:\Studia\Pr_9_zad_1_forms\Pr_9_zad_1_forms\obj\Debug\Pr_9_zad_1_forms.Form1.resources
+D:\Studia\Pr_9_zad_1_forms\Pr_9_zad_1_forms\obj\Debug\Pr_9_zad_1_forms.Properties.Resources.resources
+D:\Studia\Pr_9_zad_1_forms\Pr_9_zad_1_forms\obj\Debug\Pr_9_zad_1_forms.csproj.GenerateResource.cache
+D:\Studia\Pr_9_zad_1_forms\Pr_9_zad_1_forms\obj\Debug\Pr_9_zad_1_forms.csproj.CoreCompileInputs.cache
+D:\Studia\Pr_9_zad_1_forms\Pr_9_zad_1_forms\obj\Debug\Pr_9_zad_1_forms.exe
+D:\Studia\Pr_9_zad_1_forms\Pr_9_zad_1_forms\obj\Debug\Pr_9_zad_1_forms.pdb
